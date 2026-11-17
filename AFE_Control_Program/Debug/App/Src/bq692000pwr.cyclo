@@ -1,0 +1,5 @@
+../App/Src/bq692000pwr.c:20:21:bq_read	2
+../App/Src/bq692000pwr.c:32:21:bq_write	2
+../App/Src/bq692000pwr.c:45:14:bq_init	4
+../App/Src/bq692000pwr.c:95:14:bq_get_sys_stat	2
+../App/Src/bq692000pwr.c:119:14:bq_set_cell_bal	4
