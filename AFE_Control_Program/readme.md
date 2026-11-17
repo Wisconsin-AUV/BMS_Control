@@ -29,6 +29,9 @@ The AFE_Control_Program folder is where the BMS/AFE firmware will be stored.
 The AUV_Control_Program folder is where the WAUV interperter goes.
 The TELEM_Control_Program folder is where the TELEM modules firmware will go.
 
+Most of the code that we will edit sits in /APP
+The only file that should be edited in Core is Core/Src/main.c
+
 ## TODO 
 Write all firmware for all three systems.
 
